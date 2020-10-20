@@ -1,8 +1,8 @@
 # Sample-ActiveX-Exe-Server_v1.0__VB6
 Software Development - Sample ActiveX Exe Server v1.0<br>
-=====================================================================
-	Sample ActiveX Exe Server Documentation
-=====================================================================
+=====================================================================<br>
+	Sample ActiveX Exe Server Documentation<br>
+=====================================================================<br>
 Author : Mrugendra Bhure (mrugendra999@yahoo.com)<br>
 Distribution : Rizky Khapidsyah
 
@@ -13,8 +13,10 @@ Instructions:
 	d) Press on the Get Employee Record button, this should fetch the data.
 	e) On the Server Monitoring Form, try sending messages, Shut down clients etc.
 	f) A message box should be displayed on the client machine when a message from the server 	   is sent.
-	g) You can also use the broadcast button to send  messages to all clients.
-----------------------------------------------------------------------------------------------
+	g) You can also use the broadcast button to send  messages to all clients.<br>
+	
+----------------------------------------------------------------------------------------------<br>
+
 Documentation
 Here is the true client server project example just for You.
 This sample consists of Two Parts
@@ -26,7 +28,8 @@ This sample consists of Two Parts
 This part of the program will run on server machine. And will Act as the gateway for data to all the clients.
 
 The Server consists of the following class modules
-a) clsSever : 
+
+<br>a) clsSever : <br>
 ===============================================================================
 This module is the main module of the server and clients will be creating objects of this module. This module consists of the following methods.
 
